@@ -11,7 +11,7 @@ This project is a full stack TODO application built to manage tasks with a React
 - `server/` contains the REST API, route handlers, and database model.
 
 ## Links
-- Demo Video: [https://drive.google.com/file/d/1etg__dPvaupun7z5g-cqnnUFOEectnez/view?usp=sharing]
+- Demo Video : [https://drive.google.com/file/d/1etg__dPvaupun7z5g-cqnnUFOEectnez/view?usp=sharing]
 - Code Walkthrough: [https://drive.google.com/file/d/1T7fkrA-L_GWFYH5wALeIQpzb6pm3mKA6/view?usp=sharing]
 
 ## Run Locally
