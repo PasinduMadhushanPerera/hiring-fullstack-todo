@@ -38,5 +38,5 @@ The frontend runs on `http://localhost:5173` and the backend API uses `http://lo
 - `POST /api/todos` creates a task
 - `PUT /api/todos/:id` updates a task
 - `PATCH /api/todos/:id/done` toggles task status
-- `DELETE /api/todos/:id` removes a task
+- `DELETE /api/todos/:id` removes a task 
 

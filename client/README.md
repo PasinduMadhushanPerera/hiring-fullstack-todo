@@ -20,7 +20,7 @@ The app runs at `http://localhost:5173`.
 
 ## Key Features
 - Task form with validation for required title input
-- Delete confirmation before removing a task
+- Deleting confirmation message before removing a task
 - Inline edit for task title and description
 - Done and undo actions for task status
 - Responsive layout for desktop and mobile screens
