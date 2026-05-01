@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
+/* styles */
+*{ box-sizing: border-box; }
+html, body, #root{ height: 100%; margin: 0; }
+body{
+  margin: 0;
+  background: #1a1f2e;
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  color: #1a1d29;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  line-height: 1.5;
+}
+
+button{ font-family: inherit; }
+img{ max-width: 100%; display: block; }
